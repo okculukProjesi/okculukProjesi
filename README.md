@@ -17,7 +17,7 @@
 </p>
 </details>
 
-## Time Line (Fisrt Term) ✅
+## Time Line (First Term) ✅
 - [x] Project Proposal
 - [ ] Project Specifications Report
 - [ ] Analysis Report
